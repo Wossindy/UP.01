@@ -1,0 +1,15 @@
+X:\Практика Левит 2024\TrainingPractice_01\YAP_Task_03\bin\Debug\net6.0\YAP_Task_03.exe
+X:\Практика Левит 2024\TrainingPractice_01\YAP_Task_03\bin\Debug\net6.0\YAP_Task_03.deps.json
+X:\Практика Левит 2024\TrainingPractice_01\YAP_Task_03\bin\Debug\net6.0\YAP_Task_03.runtimeconfig.json
+X:\Практика Левит 2024\TrainingPractice_01\YAP_Task_03\bin\Debug\net6.0\YAP_Task_03.dll
+X:\Практика Левит 2024\TrainingPractice_01\YAP_Task_03\bin\Debug\net6.0\YAP_Task_03.pdb
+X:\Практика Левит 2024\TrainingPractice_01\YAP_Task_03\obj\Debug\net6.0\YAP_Task_03.csproj.AssemblyReference.cache
+X:\Практика Левит 2024\TrainingPractice_01\YAP_Task_03\obj\Debug\net6.0\YAP_Task_03.GeneratedMSBuildEditorConfig.editorconfig
+X:\Практика Левит 2024\TrainingPractice_01\YAP_Task_03\obj\Debug\net6.0\YAP_Task_03.AssemblyInfoInputs.cache
+X:\Практика Левит 2024\TrainingPractice_01\YAP_Task_03\obj\Debug\net6.0\YAP_Task_03.AssemblyInfo.cs
+X:\Практика Левит 2024\TrainingPractice_01\YAP_Task_03\obj\Debug\net6.0\YAP_Task_03.csproj.CoreCompileInputs.cache
+X:\Практика Левит 2024\TrainingPractice_01\YAP_Task_03\obj\Debug\net6.0\YAP_Task_03.dll
+X:\Практика Левит 2024\TrainingPractice_01\YAP_Task_03\obj\Debug\net6.0\refint\YAP_Task_03.dll
+X:\Практика Левит 2024\TrainingPractice_01\YAP_Task_03\obj\Debug\net6.0\YAP_Task_03.pdb
+X:\Практика Левит 2024\TrainingPractice_01\YAP_Task_03\obj\Debug\net6.0\YAP_Task_03.genruntimeconfig.cache
+X:\Практика Левит 2024\TrainingPractice_01\YAP_Task_03\obj\Debug\net6.0\ref\YAP_Task_03.dll
